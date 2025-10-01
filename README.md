@@ -1,5 +1,6 @@
 # Home Exhibition System
 A simple hometown exhibition and shopping system built on .NET 7.0, utilizing an ASP.NET backend and SQL Server database.
+
 一个基于.NET 7.0的，运用ASP.NET后端和SQL Server数据库的简单家乡展览与购物系统。
 
 ## 🚀 功能特点
@@ -20,7 +21,10 @@ A simple hometown exhibition and shopping system built on .NET 7.0, utilizing an
 
 ## 📂 项目结构
 <p align="center">
-  <img src="docs/photo1.png" alt="structure">
+  <img src="docs/screenshots/structure/structure.png" alt="structure">
+   <img src="docs/screenshots/structure/class diagram.png" alt="class diagram">
+   <img src="docs/screenshots/structure/flowchart.png" alt="flowchart">
+   <img src="docs/screenshots/structure/use case diagram.png" alt="use case diagram">
 </p>
 
 
@@ -33,16 +37,16 @@ A simple hometown exhibition and shopping system built on .NET 7.0, utilizing an
 
 ## 📷 演示截图
 <p align="center">
-  <img src="docs/screenshots/photo1.png" alt="structure">
-  <img src="docs/screenshots/photo2.png" alt="structure">
-  <img src="docs/screenshots/photo3.png" alt="structure">
-  <img src="docs/screenshots/photo4.png" alt="structure">
-  <img src="docs/screenshots/photo5.png" alt="structure">
-  <img src="docs/screenshots/photo6.png" alt="structure">
+  <img src="docs/screenshots/photo1.png" alt="demo">
+  <img src="docs/screenshots/photo2.png" alt="demo">
+  <img src="docs/screenshots/photo3.png" alt="demo">
+  <img src="docs/screenshots/photo4.png" alt="demo">
+  <img src="docs/screenshots/photo5.png" alt="demo">
+  <img src="docs/screenshots/photo6.png" alt="demo">
 </p>
 
 ## 🎯 项目亮点
-- 独立完成 系统设计、开发与测试
+- 完成 系统设计、开发与测试
 - 前后端分离，结构清晰
 - 包含完整数据库设计与交互
 - 项目代码托管在 GitHub
