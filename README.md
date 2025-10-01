@@ -1,5 +1,6 @@
 # Home Exhibition System
-一个基于.NET 7.0开发的家乡展示的后端+前端系统。
+A simple hometown exhibition and shopping system built on .NET 7.0, utilizing an ASP.NET backend and SQL Server database.
+一个基于.NET 7.0的，运用ASP.NET后端和SQL Server数据库的简单家乡展览与购物系统。
 
 ## 🚀 功能特点
 - 账户管理：注册、登录、个人资料修改
@@ -32,10 +33,12 @@
 
 ## 📷 演示截图
 <p align="center">
-  <img src="docs/photo1.png" alt="structure">
-  <img src="docs/photo2.png" alt="structure">
-  <img src="docs/photo3.png" alt="structure">
-  <img src="docs/photo4.png" alt="structure">
+  <img src="docs/screenshots/photo1.png" alt="structure">
+  <img src="docs/screenshots/photo2.png" alt="structure">
+  <img src="docs/screenshots/photo3.png" alt="structure">
+  <img src="docs/screenshots/photo4.png" alt="structure">
+  <img src="docs/screenshots/photo5.png" alt="structure">
+  <img src="docs/screenshots/photo6.png" alt="structure">
 </p>
 
 ## 🎯 项目亮点
@@ -45,4 +48,4 @@
 - 项目代码托管在 GitHub
 
 ## 📌 作者
-- Zhang Hualong，zhlong032@gmail.com
+- Hualong Zhang，zhlong032@gmail.com
